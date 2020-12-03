@@ -1,0 +1,49 @@
+.grid
+{
+    display: flex;
+    flex-wrap: wrap;
+    width: 420px;
+    height: 420px;
+    background-color: black;
+    text-align: center; 
+    margin: 2px;
+    padding: 2px;
+}
+
+.grid div
+{
+    width: 100px;
+    height: 98px;
+    background-color: yellow;
+    font-size: 60px;
+    text-align: center;
+    color: darkblue;
+    font-weight: bold;
+    font-family: Cambria, Calibri;
+    padding: 2px;
+    margin: 1px;
+    padding-left:1px;
+}
+
+.score-container
+{
+    padding: 10px;
+    font-size: 40px;
+}
+
+.score-title
+{
+    font-style: italic;
+    font-weight: bold;
+    font-family: Cambria, Calibri;
+}
+
+.result-title
+{
+    padding: 10px;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Cambria, Calibri;
+    color: darkred;
+}
