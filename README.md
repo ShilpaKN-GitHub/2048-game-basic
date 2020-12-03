@@ -1,2 +1,3 @@
-# 2048-game-basic
-Basic 2048 game
+# 2048 game
+
+Combine numners to reach 2048 !!
